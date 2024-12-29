@@ -20,7 +20,6 @@ export default async function Home() {
   return (
     <div className="min-h-screen bg-slate-950">
       {/* Hero Section */}
-      <div className="bg-red-500">Test</div>
       <section className="py-24 px-4 relative overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/20 via-blue-500/20 to-violet-500/20 blur-3xl" />
         <div className="max-w-4xl mx-auto text-center relative">
